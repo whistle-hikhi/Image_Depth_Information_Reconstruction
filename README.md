@@ -18,6 +18,13 @@ Input images: <br />
 <img src ="tsukuba/left.png">  <img src ="tsukuba/right.png"> <br />
 Output image: <br />
 <img src ="window_based.png"> <br />
+
+Limitation:  <br />
+Input images: <br />
+<img src ="Aloe/Aloe_left_1.png" width="250" height="250"> <img src ="Aloe/Aloe_right_2.png" width="250" height="250"> <br />
+Ouput image: <br />
+<img src ="window_based_false.png" width="250" height="250"> <br />
+
 4. Window-based matching with cosin similarity <br />
 Input images: <br />
 <img src ="Aloe/Aloe_left_1.png" width="250" height="250"> <img src ="Aloe/Aloe_right_2.png" width="250" height="250"> <br />
