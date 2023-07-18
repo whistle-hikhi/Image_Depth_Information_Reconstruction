@@ -22,4 +22,4 @@ Output image: <br />
 Input images: <br />
 <img src ="Aloe/Aloe_left_1.png" width="250" height="250"> <img src ="Aloe/Aloe_right_2.png" width="250" height="250"> <br />
 Ouput image: <br />
-<img src ="Aloe/window_based_cos_similarity.png" width="250" height="250"> <br />
+<img src ="window_based_cos_similarity.png" width="250" height="250"> <br />
