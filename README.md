@@ -5,7 +5,8 @@ The objective of this project is to calculate the depth of ojects in image using
 - Window-based matching
 - Window-based matching with cosin similarity
 <br />
-## Pixel-wise matching
+## Pixel-wise_matching
+
 Input images left and right: <br />
 
 <img src="pixel_wise.png">
